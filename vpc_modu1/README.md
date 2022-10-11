@@ -2,8 +2,6 @@
 
 # Base VPC infrastructure
 
-This is a demo repository for the [How to manage Amazon EFS using Terraform](https://hands-on.cloud/how-to-manage-amazon-efs-using-terraform/) article.
-
 This module sets up the following AWS services:
 
 * VPC with 2 private subnets

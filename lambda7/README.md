@@ -2,8 +2,6 @@
 
 # AWS Lambda
 
-This is a demo repository for the [How to manage Amazon EFS using Terraform](https://hands-on.cloud/how-to-manage-amazon-efs-using-terraform/) article.
-
 This module sets up the following AWS services:
 
 * AWS Lambda with mounted EFS volume
